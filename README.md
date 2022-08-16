@@ -7,5 +7,6 @@
 - 💬 Ask me about anything regarding music, especially cello.
 - 📫 How to reach me: williamlocke.cello@gmail.com
 - ⚡ Fun fact: I was born in Switzerland!
+<br />
 
--  :crossed_swords: View my solutions on [Codewars](https://www.codewars.com/users/dopecello/completed_solutions)! 
+   :crossed_swords: View my solutions on [Codewars](https://www.codewars.com/users/dopecello/completed_solutions)! 
