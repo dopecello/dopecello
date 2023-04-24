@@ -3,5 +3,5 @@
 - :office: I’m looking to collaborate on programs that help benefit music artists!
 - 🤔 I’m looking for help with mastering overall programming logic and ways of thinking
 - 💬 Ask me about anything regarding music, especially cello.
-- 📫 How to reach me: williamlocke.cello@gmail.com
+- 📫 How to reach me: williamlocke.dev@gmail.com
 - ⚡ Fun fact: I was born in Switzerland!
