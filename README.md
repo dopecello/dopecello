@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on getting a junior role in the tech industry!
-- 🌱 I’m currently learning how to master Javascript, CSS, GoLang, SQL, and Algorithms
+- 🌱 I’m currently learning how to master Typescript, C#, Databases, as well as Data Structures & Algorithms
 - :office: My dream job would be to collaborate on programs that help benefit music artists!
 - 🤔 I’m looking for people to code with and talk about coding with!
 - 💬 Ask me about anything regarding music, especially cello.
